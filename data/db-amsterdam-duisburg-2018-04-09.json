@@ -1,0 +1,145 @@
+[
+  {
+    "name": "ICE 250",
+    "type": "ICE",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T10:58",
+    "origin": "Frankfurt(Main)Hbf",
+    "track": "7",
+    "detailsId": "373752%2F134867%2F485318%2F118075%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "IC 242",
+    "type": "IC",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T11:00",
+    "origin": "Hannover Hbf",
+    "track": "13a",
+    "detailsId": "17418%2F16080%2F522214%2F255301%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "ICE 158",
+    "type": "ICE",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T12:58",
+    "origin": "Frankfurt(Main)Hbf",
+    "track": "7",
+    "detailsId": "482322%2F170657%2F231164%2F45192%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "IC 240",
+    "type": "IC",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T13:00",
+    "origin": "Berlin Ostbahnhof",
+    "track": "13b",
+    "detailsId": "552435%2F194401%2F771994%2F201852%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "IC 148",
+    "type": "IC",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T15:01",
+    "origin": "Berlin Ostbahnhof",
+    "track": "13a",
+    "detailsId": "835890%2F288489%2F356396%2F100432%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "ICE 156",
+    "type": "ICE",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T15:58",
+    "origin": "Frankfurt(Main)Hbf",
+    "track": "7b",
+    "detailsId": "227295%2F85645%2F681114%2F264792%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "IC 146",
+    "type": "IC",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T17:01",
+    "origin": "Berlin Ostbahnhof",
+    "track": "13a",
+    "detailsId": "16029%2F15184%2F821836%2F405575%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "ICE 154",
+    "type": "ICE",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T17:58",
+    "origin": "Frankfurt(Main)Hbf",
+    "track": "7",
+    "detailsId": "996972%2F342201%2F76254%2F294197%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "IC 144",
+    "type": "IC",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T19:00",
+    "origin": "Berlin Ostbahnhof",
+    "track": "13a",
+    "detailsId": "857898%2F295788%2F240724%2F165604%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "ICE 152",
+    "type": "ICE",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T20:44",
+    "origin": "Frankfurt(Main)Hbf",
+    "track": "7",
+    "detailsId": "811071%2F280232%2F656324%2F57805%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "IC 142",
+    "type": "IC",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T21:01",
+    "origin": "Berlin Ostbahnhof",
+    "track": "13a",
+    "detailsId": "870939%2F300118%2F344444%2F118091%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "ICE 254",
+    "type": "ICE",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T22:29",
+    "origin": "Basel SBB",
+    "track": "5a",
+    "detailsId": "337590%2F122820%2F991448%2F383194%2F80%3fstation_evaId%3D8400058"
+  },
+  {
+    "name": "IC 140",
+    "type": "IC",
+    "boardId": 8400058,
+    "stopId": 8400058,
+    "stopName": "Amsterdam Centraal",
+    "dateTime": "2018-04-09T23:00",
+    "origin": "Berlin Ostbahnhof",
+    "track": "13a",
+    "detailsId": "762246%2F263864%2F107546%2F200309%2F80%3fstation_evaId%3D8400058"
+  }
+]
